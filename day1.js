@@ -1,5 +1,5 @@
-console.log("activity-1");
-// output is activity-1
+
+// activity-1
 
 
 
@@ -22,7 +22,7 @@ console.log(str);
 
 // output is Hello World
 
-
+//activity 2
 // TASK-3
 // declare a variable using const,assign it a boolean value and log the value to console
 
